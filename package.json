@@ -1,0 +1,23 @@
+{
+  "name": "pulse-req",
+  "version": "1.0.0",
+  "description": "Lightweight HTTP client with caching, retry, dedupe, and rate limiting",
+  "main": "index.js",
+  "keywords": [
+    "http",
+    "request",
+    "fetch",
+    "axios",
+    "client",
+    "lightweight"
+  ],
+  "license": "MIT",
+  "author": "fidzz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pulse/pulse-req"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
